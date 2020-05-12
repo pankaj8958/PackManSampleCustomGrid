@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 227089582
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sprite/bg
+      Dependencies: {}

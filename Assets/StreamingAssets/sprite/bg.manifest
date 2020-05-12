@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2322958672
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec0e8d5c28e6291a6acae611b0195884
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e6ad29cbd2df8fbe1a15315db0e51ab
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprite/Backgrounds/Dynamic/BG8.png
+- Assets/Sprite/Backgrounds/Dynamic/BG5.png
+- Assets/Sprite/Backgrounds/Dynamic/BG7.png
+- Assets/Sprite/Backgrounds/Dynamic/BG6.png
+- Assets/Sprite/Backgrounds/Dynamic/BG3.png
+- Assets/Sprite/Backgrounds/Dynamic/BG4.png
+- Assets/Sprite/Backgrounds/Dynamic/BG1.png
+- Assets/Sprite/Backgrounds/Dynamic/BG2.png
+Dependencies: []
